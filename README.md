@@ -1,6 +1,6 @@
 # Banking Chatbot with AWS Lex and CI/CD Automation
 
-This repository contains a production-style implementation of a banking chatbot project built with **AWS Lex**, **AWS Lambda**, **Amazon DynamoDB**, and a CI/CD path using **GitHub Actions**, **AWS CodeBuild**, **AWS CodeDeploy**, and **AWS CodePipeline**.
+This repository contains a production-oriented structure implementation of a banking chatbot project built with **AWS Lex**, **AWS Lambda**, **Amazon DynamoDB**, and a CI/CD path using **GitHub Actions**, **AWS CodeBuild**, **AWS CodeDeploy**, and **AWS CodePipeline**.
 
 ## Project Goals
 
